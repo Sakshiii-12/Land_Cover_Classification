@@ -252,7 +252,7 @@ BOUNDARY_FILE = Path("data/raw/boundary")
 python main.py
 ```
 
-## Libraries, Frameworks, and Technologies
+## Tools and Technologies
 
 | Category | Libraries / Technologies | Version |
 |---|---|---|
